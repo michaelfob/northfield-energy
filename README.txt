@@ -1,12 +1,14 @@
-Northfield Energy - Formspree Ready Version
+Northfield Energy Launch V1
 
-This package uses your Formspree endpoint:
+Upload these files to GitHub:
+- index.html
+- styles.css
+- script.js
+- assets/northfield-logo.svg
+- README.txt
+
+Formspree is connected to:
 https://formspree.io/f/mbdvwzaz
 
-Upload instructions:
-1. Unzip this ZIP file.
-2. Upload the extracted folder to Netlify.
-3. Fill in the contact form on the live site to test it.
-4. Check the inbox connected to your Formspree account.
-
-The old Netlify Forms settings have been removed from the form.
+Important:
+Delete old placeholder styles.css and ZIP files from GitHub if possible.
